@@ -3,4 +3,6 @@ Lab exercises during 2021-22 Fall Semester class for Neural Networks and Intelli
 ## Lab 1
 Supervised learning - Classification
 ## Lab 2
-Unsupervised learnign - Text mining - Clustering
+Unsupervised learning - Text mining - Clustering
+## Lab 3
+Deep learning - CNNs - RNNs - Image captioning
